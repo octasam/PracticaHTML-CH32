@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgba(33, 92, 175, 0.53);
+    font-family:fantasy;
+}
+
+.Albums{
+    background-color: rgba(185, 185, 0, 0.454);
+}
+
+.link{
+    background-color: rgba(255, 235, 205, 0.536);
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
